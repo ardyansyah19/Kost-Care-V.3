@@ -1,4 +1,4 @@
-# Kost Care V3 — manajemen kost 20 kamar (mobile-first)
+# Kost Care_V.3
 
 Satu aplikasi untuk pemilik (admin) dan penghuni (portal HP). Node.js 22.13+ · Express · SQLite (bawaan Node, tanpa instalasi database).
 
